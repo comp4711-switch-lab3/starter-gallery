@@ -1,33 +1,39 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  ThomasM (Captain) & PhilipShin (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version ci-basic02*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 28, 2018
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
+    -   
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   Welcome.php (PhilipShin)
+    -   Gallery.php (PhilipShin)
+    -   About.php (PhilipShin)
 
 -   models
 
-    -   italian (AB)
+    -
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   template (PhilipShin)
+    -   welcome.php (PhilipShin)
+    -   gallery.php (PhilipShin)
+    -   about.php (PhilipShin)
+
+-   core
+    - My_Controller (PhilipShin)
 
 
