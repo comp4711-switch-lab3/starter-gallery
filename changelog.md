@@ -10,9 +10,13 @@ Release Date: Jan 28, 2018
 
 ## New Components
 
--   controllers
+-   models
+    
+    - Images.php (PhilipShin)
 
-    -   
+-   views
+    
+    - _cell.php (PhilipShin)
     
 ## Updated Components
 
@@ -22,18 +26,17 @@ Release Date: Jan 28, 2018
     -   Gallery.php (PhilipShin)
     -   About.php (PhilipShin)
 
--   models
-
-    -
-
 -   views
 
-    -   template (PhilipShin)
     -   welcome.php (PhilipShin)
     -   gallery.php (PhilipShin)
     -   about.php (PhilipShin)
+    
+-   config
 
--   core
-    - My_Controller (PhilipShin)
+    - database.php (PhilipShin)
+    - autoload.php (PhilipShin)
+
+    
 
 

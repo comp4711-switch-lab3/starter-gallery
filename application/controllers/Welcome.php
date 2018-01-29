@@ -31,6 +31,7 @@ class Welcome extends Application
       
       $this->data['pagebody'] = 'welcome';
       $this->render();
+
 	}
 
 }
