@@ -1,36 +1,42 @@
 #Change Log
 
-
 Team membership:  ThomasM (Captain) & PhilipShin (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version ci-basic02*
+## *Version ci-basic03*
 
 Release Date: Jan 28, 2018
 
 ## New Components
 
-    -   
+-   models
+    
+    - Images.php (PhilipShin)
+
+-   views
+    
+    - _cell.php (PhilipShin)
     
 ## Updated Components
 
 -   controllers
 
-    -   Welcome.php (ThomasM)
-    -   Gallery.php (ThomasM)
-    -   About.php (ThomasM)
-
--   models
-
-    -
+    -   Welcome.php (PhilipShin)
+    -   Gallery.php (PhilipShin)
+    -   About.php (PhilipShin)
 
 -   views
 
-    -   template (ThomasM)
-    -   welcome.php (ThomasM)
-    -   gallery.php (ThomasM)
-    -   about.php (ThomasM)
+    -   welcome.php (PhilipShin)
+    -   gallery.php (PhilipShin)
+    -   about.php (PhilipShin)
+    
+-   config
 
--   core
-    - My_Controller (PhilipShin)
+    - database.php (PhilipShin)
+    - autoload.php (PhilipShin)
+
+    
+
+
