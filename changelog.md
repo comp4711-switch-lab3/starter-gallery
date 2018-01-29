@@ -4,7 +4,7 @@ Team membership:  ThomasM (Captain) & PhilipShin (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version ci-basic02*
+## *Version ci-basic03*
 
 Release Date: Jan 28, 2018
 
